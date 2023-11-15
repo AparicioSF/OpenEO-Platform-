@@ -1,1 +1,1 @@
-# OpenEO-Platform-
+# OpenEO-Platform
